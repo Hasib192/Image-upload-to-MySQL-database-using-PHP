@@ -1,5 +1,5 @@
 ## Store and Retrieve Image from MySQL Database using PHP
-This respository shows how to store &amp; retrieve image from MySQL database using PHP. **If you find it useful then leave a ★**
+This respository shows how to store &amp; retrieve image from MySQL database using PHP.
 
 The first thing you need to do is create a database in you phpmyadmin called **"test"**. (Note: If you want to give another name to your database, then you will also need to change the database name in the db_config.php file.)
 
